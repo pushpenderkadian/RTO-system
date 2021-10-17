@@ -1,0 +1,208 @@
+HR51BQ9629
+--------------------------------------------
+VEHCILE NUMBER -- HR51BQ9629
+VEHICLE NAME -- AUDI Q4
+OWNER NAME -- RAMESH
+FUEL TYPE -- DIESEL
+GEAR -- AUTO
+REG. DATE -- 11/10/2017
+EXPIRY DATE -- 11/10/2032
+INSURANCE EXPIRY -- 2/10/2021
+COLOR -- SILVER
+--------------------------------------------
+~
+MH4GM9660
+--------------------------------------------
+VEHCILE NUMBER -- MH4GM9660
+VEHICLE NAME -- MERCEDES BENZ ML 250
+OWNER NAME -- RAMESH
+FUEL TYPE -- DIESEL
+GEAR -- MANUAL
+REG. DATE -- 9/10/2014
+EXPIRY DATE -- 8/10/2029
+INSURANCE EXPIRY -30/03/2022
+COLOR -- O BLACK
+--------------------------------------------
+~
+MH46Z2727
+--------------------------------------------
+VEHCILE NUMBER -- MH46Z2727
+VEHICLE NAME -- MERCEDES BENZ GL 350
+OWNER NAME -- SALMAN KHAN
+FUEL TYPE -- DIESEL
+GEAR -- MANUAL
+REG. DATE -- 7/3/2014
+EXPIRY DATE -- 6/03/2029
+INSURANCE EXPIRY -- 19/02/2021
+COLOR -- P WHITE
+--------------------------------------------
+~
+MH02CZ7000
+--------------------------------------------
+VEHCILE NUMBER -- MH02CZ7000
+VEHICLE NAME -- AUDI Q7
+OWNER NAME -- BIPASHA BASU
+FUEL TYPE -- DIESEL
+GEAR -- AUTO
+REG. DATE -- 06/03/2013
+EXPIRY DATE -- 5/3/2028
+INSURANCE EXPIRY -- 22/06/2021
+COLOR -- RED
+--------------------------------------------
+~
+MH47K4272
+--------------------------------------------
+VEHCILE NUMBER -- MH47K4272
+VEHICLE NAME -- AUDI A6
+OWNER NAME -- YAMI GAUTAM
+FUEL TYPE -- DIESEL
+GEAR -- AUTO
+REG. DATE -- 7/04/2016
+EXPIRY DATE -- 6/04/2031
+INSURANCE EXPIRY -- 5/04/2021
+COLOR -- O BLACK
+--------------------------------------------
+~
+GJ07MR0001
+--------------------------------------------
+VEHCILE NUMBER -- GJ07MR0001
+VEHICLE NAME -- BMW GT
+OWNER NAME -- K K MODI
+FUEL TYPE -- PETROL
+GEAR -- MANUAL
+REG. DATE -- 12/03/2015
+EXPIRY DATE -- 11/03/2030
+INSURANCE EXPIRY -- 14/03/2021
+COLOR -- BLUE
+--------------------------------------------
+~
+RJ37BH0060
+--------------------------------------------
+VEHCILE NUMBER -- RJ37BH0060
+VEHICLE NAME -- TESLA MODEL 3
+OWNER NAME -- ARJUN SINGH
+FUEL TYPE -- ELECTRIC
+GEAR -- AUTO
+REG. DATE -- 12/02/2021
+EXPIRY DATE -- 13/02/2036
+INSURANCE EXPIRY -- 11/02/2022
+COLOR -- GREY
+--------------------------------------------
+~
+MP23PN8762
+--------------------------------------------
+VEHCILE NUMBER -- MP23PN8762
+VEHICLE NAME -- TESLA MODEL S
+OWNER NAME -- BHARAT GARG
+FUEL TYPE -- ELECTRIC
+GEAR -- AUTO
+REG. DATE -- 18/01/2021
+EXPIRY DATE -- 15/01/2036
+I21/12/2023XPIRY -- 14/01/2022
+COLOR -- RED
+--------------------------------------------
+~
+RJ02GH2001
+--------------------------------------------
+VEHCILE NUMBER -- RJ02GH2001
+VEHICLE NAME -- AUDI R8
+OWNER NAME -- VIRAT KOHLI
+FUEL TYPE -- PETROL
+GEAR -- AUTO
+REG. DATE -- 12/08/2018
+EXPIRY DATE -- 13/08/2033
+INSURANCE EXPIRY -- 15/08/2021
+COLOR -- YELLOW
+--------------------------------------------
+~
+JK21QW3546
+--------------------------------------------
+VEHCILE NUMBER -- JK21QW3546
+VEHICLE NAME -- MERCEDES BENZ G-CLASS
+OWNER NAME -- ATUL RAWAT
+FUEL TYPE -- DIESEL
+GEAR -- MANUAL
+REG. DATE -- 25/11/2016
+EXPIRY DATE -- 23/11/2031
+INSURANCE EXPIRY -- 27/11/2021
+COLOR -- WHITE
+--------------------------------------------
+~
+JK11SD7894
+--------------------------------------------
+VEHCILE NUMBER -- JK11SD7894
+VEHICLE NAME -- BMW X1
+OWNER NAME -- RAVI SHERAWAT
+FUEL TYPE -- DIESEL
+GEAR -- MANUAL
+REG. DATE -- 27/10/2017
+EXPIRY DATE -- 26/10/2032
+INSURANCE EXPIRY -- 26/10/2021
+COLOR -- WHITE
+--------------------------------------------
+~
+TN29Q2583
+--------------------------------------------
+VEHCILE NUMBER -- TN29Q2583
+VEHICLE NAME -- BMW X3
+OWNER NAME -- RAMAN SINGH
+FUEL TYPE -- PETROL
+GEAR -- AUTO
+REG. DATE -- 3/12/2014
+EXPIRY DATE -- 4/12/2029
+INSURANCE EXPIRY -- 8/12/2021
+COLOR -- RED
+--------------------------------------------
+~
+MH03BA0212
+--------------------------------------------
+VEHCILE NUMBER -- MH03BA0212
+VEHICLE NAME -- TESLA MODEL S
+OWNER NAME -- ABHINAV CHOUDHARY
+FUEL TYPE -- ELECTRIC
+GEAR -- AUTO
+REG. DATE -- 27/01/2021
+EXPIRY DATE -- 25/01/2036
+INSURANCE EXPIRY -- 26/01/2022
+COLOR -- WHITE
+--------------------------------------------
+~
+MH09HJ3990
+--------------------------------------------
+VEHCILE NUMBER -- MH09HJ3990
+VEHICLE NAME -- TESLA MODEL S
+OWNER NAME -- ALOK CHAUTALA
+FUEL TYPE -- ELECTRIC
+GEAR -- AUTO
+REG. DATE -- 18/01/2021
+EXPIRY DATE -- 15/01/2036
+INSURANCE EXPIRY -- 18/01/2022
+COLOR -- WHITE
+--------------------------------------------
+~
+KR34KC7009
+--------------------------------------------
+VEHCILE NUMBER -- KR34KC7009
+VEHICLE NAME -- MERCEDES BENZ G-CLASS
+OWNER NAME -- RAM SINGH
+FUEL TYPE -- DIESEL
+GEAR -- MANUAL
+REG. DATE -- 6/12/2013
+EXPIRY DATE -- 6/12/2028
+INSURANCE EXPIRY -- 6/03/2021
+COLOR -- RED
+--------------------------------------------
+~
+UP25AN0002
+--------------------------------------------
+VEHCILE NUMBER -- UP25AN0002
+VEHICLE NAME -- BMW GT
+OWNER NAME -- ADITYANATH
+FUEL TYPE -- DIESEL
+GEAR -- AUTO
+REG. DATE -- 14/03/2018
+EXPIRY DATE -- 6/03/2033
+INSURANCE EXPIRY -- 11/03/2021
+COLOR -- BLUE
+--------------------------------------------
+~

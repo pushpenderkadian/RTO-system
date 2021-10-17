@@ -1,0 +1,188 @@
+------------------------------------------------------------
+WE HAVE CARS OF 4 PRESTIGIOUS COMPANIES -:
+1. AUDI
+2. BMW
+3. MERCEDES
+4. TESLA
+------------------------------------------------------------
+COMPANY -: AUDI
+NAME : AUDI Q7
+FUEL TYPES -: DIESEL AND PETROL
+COLOR -: RED , GREY , BLACK , WHITE , SILVER
+GEAR TYPE -: AUTO , MANUAL
+MILEAGE -: 14.5 KM
+SEATING CAPACITY -: 7
+BASE PRICE -: 69 LAKHS
+------------------------------------------------------------
+~
+COMPANY -: AUDI
+NAME : AUDI Q4
+FUEL TYPES -: DIESEL AND PETROL
+COLOR -: RED , GREY , O BLACK , WHITE
+GEAR TYPE -: AUTO , MANUAL
+MILEAGE -: 16.2 KM
+SEATING CAPACITY -: 5
+BASE PRICE -: 35 LAKHS
+------------------------------------------------------------
+~
+COMPANY -: AUDI
+NAME : AUDI R8
+FUEL TYPES -: DIESEL AND PETROL
+COLOR -: RED , BLACK , WHITE , SILVER , YELLOW
+GEAR TYPE -: AUTO , MANUAL
+MILEAGE -: 12 KM
+SEATING CAPACITY -: 2
+BASE PRICE -: 2.3 CRORES
+------------------------------------------------------------
+~
+COMPANY -: AUDI
+NAME : AUDI A6
+FUEL TYPES -: DIESEL AND PETROL
+COLOR -: RED , O BLACK , WHITE , YELLOW
+GEAR TYPE -: AUTO , MANUAL
+MILEAGE -: 15.2 KM
+SEATING CAPACITY -: 5
+BASE PRICE -: 55 LAKHS
+------------------------------------------------------------
+~
+COMPANY -: BMW
+NAME : BMW GT
+FUEL TYPES -: DIESEL AND PETROL
+COLOR -: RED , BLACK , WHITE , YELLOW , SILVER
+GEAR TYPE -: AUTO , MANUAL
+MILEAGE -: 13.5 KM
+SEATING CAPACITY -: 5
+BASE PRICE -: 48 LAKHS
+------------------------------------------------------------
+~
+COMPANY -: BMW
+NAME : BMW X1
+FUEL TYPES -: DIESEL AND PETROL
+COLOR -: RED , BLACK , WHITE , YELLOW , SILVER
+GEAR TYPE -: AUTO , MANUAL
+MILEAGE -: 13.8 KM
+SEATING CAPACITY -: 5
+BASE PRICE -: 43 LAKHS
+------------------------------------------------------------
+~
+COMPANY -: BMW
+NAME : BMW X3
+FUEL TYPES -: DIESEL AND PETROL
+COLOR -: 0 BLACK , WHITE , YELLOW , SILVER
+GEAR TYPE -: AUTO , MANUAL
+MILEAGE -: 14.5 KM
+SEATING CAPACITY -: 5
+BASE PRICE -: 50 LAKHS
+------------------------------------------------------------
+~
+COMPANY -: BMW
+NAME : BMW 3 SERIES
+FUEL TYPES -: DIESEL AND PETROL
+COLOR -: RED , BLACK , WHITE , YELLOW , SILVER
+GEAR TYPE -: AUTO
+MILEAGE -: 14.9 KM
+SEATING CAPACITY -: 5
+BASE PRICE -: 42 LAKHS
+------------------------------------------------------------
+~
+COMPANY -: MERCEDES
+NAME : MERCEDES BENZ GL 350
+FUEL TYPES -: DIESEL AND PETROL
+COLOR -: RED , 0 BLACK , WHITE , GREY
+GEAR TYPE -: AUTO , MANUAL
+MILEAGE -: 16.8 KM
+SEATING CAPACITY -: 5
+BASE PRICE -: 78 LAKHS
+------------------------------------------------------------
+~
+COMPANY -: MERCEDES
+NAME : MERCEDES BENZ ML 250
+FUEL TYPES -: DIESEL AND PETROL
+COLOR -: RED , 0 BLACK , WHITE , GREY
+GEAR TYPE -: AUTO , MANUAL
+MILEAGE -: 19.8 KM
+SEATING CAPACITY -: 5
+BASE PRICE -: 57 LAKHS
+------------------------------------------------------------
+~
+COMPANY -: MERCEDES
+NAME : MERCEDES BENZ G CLASS
+FUEL TYPES -: DIESEL AND PETROL
+COLOR -: RED , 0 BLACK , WHITE , BLUE , GREY
+GEAR TYPE -: AUTO , MANUAL
+MILEAGE -: 15.8 KM
+SEATING CAPACITY -: 5
+BASE PRICE -: 1.62 CRORES
+------------------------------------------------------------
+~
+COMPANY -: MERCEDES
+NAME : MERCEDES-AMG SLC 43
+FUEL TYPES -: DIESEL AND PETROL
+COLOR -: RED , 0 BLACK , WHITE , GREY
+GEAR TYPE -: AUTO , MANUAL
+MILEAGE -: 11.8 KM
+SEATING CAPACITY -: 2
+BASE PRICE -: 77.5 LAKHS
+------------------------------------------------------------
+~
+COMPANY -: TESLA
+NAME : TESLA MODEL 3
+FUEL TYPES -: ELECTRIC
+COLOR -: RED , 0 BLACK , WHITE , GREY
+GEAR TYPE -: AUTO
+MILEAGE -: 350 KM ON FULL CHARGE
+SEATING CAPACITY -: 4
+BASE PRICE -: 60 LAKHS
+------------------------------------------------------------
+~
+COMPANY -: TESLA
+NAME : TESLA MODEL S
+FUEL TYPES -: ELECTRIC
+COLOR -: RED , 0 BLACK , WHITE , GREY , BLUE
+GEAR TYPE -: AUTO
+MILEAGE -: 320 KM ON FULL CHARGE
+SEATING CAPACITY -: 5
+BASE PRICE -: 1.5 CRORES
+------------------------------------------------------------
+~
+COMPANY -: TESLA
+NAME : TESLA MODEL X
+FUEL TYPES -: ELECTRIC
+COLOR -: VIOLET , 0 BLACK , WHITE , GREY
+GEAR TYPE -: AUTO
+MILEAGE -: 280 KM ON FULL CHARGE
+SEATING CAPACITY -: 2
+BASE PRICE -: 2.00 CRORES
+------------------------------------------------------------
+~
+COMPANY -: TESLA
+NAME : TESLA MODEL Y
+FUEL TYPES -: ELECTRIC
+COLOR -: RED , 0 BLACK , WHITE , GREY , YELLOW
+GEAR TYPE -: AUTO
+MILEAGE -: 390 KM ON FULL CHARGE
+SEATING CAPACITY -: 5
+BASE PRICE -: 50 LAKHS
+------------------------------------------------------------
+~
+COMPANY -: AUDI
+NAME -: AUDI R8
+FUEL TYPES -: PETROL/DIESEL
+COLOR -: RED/BROWN/BLACK/WHITE
+GEAR TYPE -: AUTO/MANNUAL
+MILEAGE -: 10KM
+SEATING CAPACITY -: 2
+BASE PRICE -: 110LAKHS
+------------------------------------------------------------
+~
+
+COMPANY -: AUDI
+NAME -: AUDI R9
+FUEL TYPES -: PETROL,DIESEL
+COLOR -: RED,WHITE,BLACK
+GEAR TYPE -: MANUAL,AUTO
+MILEAGE -: 10KM
+SEATING CAPACITY -: 2
+BASE PRICE -: 110LAKHS
+------------------------------------------------------------
+~
